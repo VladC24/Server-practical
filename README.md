@@ -68,7 +68,12 @@ Install telnet:
 ```
 brew install telnet
 ```
-Run the server file in one terminal window, and then run on a second terminal window:
+Run the server file in one terminal window
+```
+ruby server_p1.rb
+```
+
+And then run on a second terminal window:
 ``` 
 telnet localhost 2345
 ```  
