@@ -60,3 +60,16 @@ Try the following challenges, in any order you like:
 2. Make it so the user can stay connected and typing stuff until they type 'quit'
 3. Connect to your pair's laptop from your laptop. You'll need the network IP address of the laptop with the server on it for this. See below
 4. Create a separate NoteList class and make a notes app you can control over the network.
+
+
+## HOW TO RUN IT
+
+Install telnet:
+```
+brew install telnet
+```
+Run the server file in one terminal window, and then run on a second terminal window:
+``` 
+telnet localhost 2345
+```  
+And you're all set to go.
