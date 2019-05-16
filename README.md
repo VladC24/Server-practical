@@ -1,8 +1,9 @@
-SERVER PRACTICAL - MAKERS
+# SERVER PRACTICAL - MAKERS
 
-Learn to
+Learn to:
 Learn about something by playing with a toy version
-Introduction
+
+## Introduction:
 This week we're thinking about networked applications. This means they involve clients and servers.
 
 Today we're going to build a server.
@@ -13,7 +14,7 @@ Remind you of any learning strategies you might have used in the past?
 
 It's time for you to take on this approach.
 
-Exercise 1
+### Exercise 1
 Here's a simple server:
 
 ```
@@ -52,7 +53,7 @@ HELLO????? IS THERE ANYBODY OUT THERE??
 ```
 Hit return. What do you see?
 
-Exercise 2
+### Exercise 2
 Try the following challenges, in any order you like:
 
 1. At the moment the server simply quits after the first user disconnects. Make so the server stays running so that the user can reconnect.
